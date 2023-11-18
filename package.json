@@ -1,0 +1,38 @@
+{
+  "name": "two-way-map",
+  "version": "1.0.0",
+  "description": "A TypeScript library providing two-way mapping functionality with order preservation. It is ideal for scenarios requiring bidirectional lookups while maintaining the insertion order of elements.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solancer/two-way-map.git"
+  },
+  "keywords": [
+    "map",
+    "two-way map",
+    "two-way",
+    "data structure",
+    "bidirectional",
+    "key value"
+  ],
+  "author": "Srinivas Gowda <srinivas@solancer.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/solancer/two-way-map/issues"
+  },
+  "homepage": "https://github.com/solancer/two-way-map#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.8",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.2.2"
+  },
+  "peerDependencies": {
+    "typescript": ">=3.0.0"
+  }
+}
