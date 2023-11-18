@@ -56,7 +56,7 @@ npm install @solancer/two-way-map
 ### Setting and Getting Values
 
 ```ts
-import { TwoWayMap } from "two-way-map";
+import { TwoWayMap } from "@solancer/two-way-map";
 
 const map = new TwoWayMap<string, number>();
 
