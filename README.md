@@ -1,5 +1,12 @@
 # Two-Way Map
 
+![GitHub license](https://img.shields.io/github/license/solancer/two-way-map)
+![GitHub issues](https://img.shields.io/github/issues/solancer/two-way-map)
+![GitHub forks](https://img.shields.io/github/forks/solancer/two-way-map)
+![GitHub stars](https://img.shields.io/github/stars/solancer/two-way-map)
+![npm version](https://img.shields.io/npm/v/@solancer/two-way-map)
+![npm downloads](https://img.shields.io/npm/dm/@solancer/two-way-map)
+
 A TypeScript library providing two-way mapping functionality with order preservation. It is ideal for scenarios requiring bidirectional lookups while maintaining the insertion order of elements. This class offers an intuitive API that aligns with common data structure operations, making it suitable for a variety of use cases.
 
 ## Features
